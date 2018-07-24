@@ -6,3 +6,5 @@ fields:
 - type: text
   name: gggggggg
   label: gggggggg
+pages:
+- _posts/.md
