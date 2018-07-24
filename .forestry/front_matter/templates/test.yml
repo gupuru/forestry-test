@@ -2,4 +2,7 @@
 label: test
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: gggggggg
+  label: gggggggg
